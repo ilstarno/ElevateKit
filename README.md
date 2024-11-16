@@ -2,6 +2,12 @@
 
 ElevateKit is a powerful Windows privilege elevation toolkit written in Rust that allows running processes with TrustedInstaller privileges. It provides a safe and efficient way to perform administrative tasks that require the highest level of system access.
 
+## Download
+
+Download the latest release from the [Releases](https://github.com/ilstarno/ElevateKit/releases) page.
+Or download the latest binary directly https://github.com/ilstarno/ElevateKit/releases/download/untagged-f627d716542ede7d4461/elevatekit.exe
+
+
 ## Features
 
 - Elevate processes to TrustedInstaller privileges
