@@ -120,7 +120,7 @@ Contributions are welcome! Please feel free to submit pull requests. Make sure t
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details
+MIT License
 
 ## Acknowledgments
 
