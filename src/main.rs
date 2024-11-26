@@ -1,4 +1,4 @@
-//@Author: Indrit Zeqiri
+//@Author: IndritZ
 //@Description: Windows TrustedInstaller elevation toolkit
 
 
